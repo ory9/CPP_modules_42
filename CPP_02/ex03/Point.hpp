@@ -2,7 +2,6 @@
 #include <iostream>
 #include <cmath>
 #include "Fixed.hpp"
-#include <iomanip>
 
 class Point{
 private:
